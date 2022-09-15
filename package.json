@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Fabicaneyu/AXE-Cypress/issues"
   },
-  "homepage": "https://github.com/Fabicaneyu/AXE-Cypress#readme"
+  "homepage": "https://github.com/Fabicaneyu/AXE-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^6.0.0"
+  }
 }
